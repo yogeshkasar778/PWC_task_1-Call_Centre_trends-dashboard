@@ -78,7 +78,7 @@ Measures used in  all visualization are:
 ## Data Visualization (Dashboard) :
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
-
+Dashboard: [View Dashboard](https://www.novypro.com/project/yogeshkasar97)
 Shows visualizations from Call Center Trends :
 
 | Call Centre Trends (Overview) |
